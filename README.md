@@ -1,6 +1,6 @@
 # Employee-Onboarding-Chatbot
 
-Do Try it out 😉: https://employee-onboarding-chatbot.hostman.site/#homeSection
+Do Try it out 😉: https://employee-onboarding-chatbot.hostman.site/
 
 # Interface
 ![Screenshot 2022-02-18 000322](https://user-images.githubusercontent.com/72887609/154547879-e0521a85-cfa0-4c95-b5d4-8c89445b5eaa.jpg)
